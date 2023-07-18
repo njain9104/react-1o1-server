@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "name": "Apple", "price": 100, "type": "fruit" },
+    { "name": "Potato", "price": 30, "type": "vegetable" }
+  ]
+}
